@@ -30,9 +30,8 @@ In this class i implements the interfaces - GraphInterface
 
 ### GraphAlgo
 
-In this class i implements the interfaces - GraphAlgo.
-
-In this class we implement the Dijkstra and Tarjan algorithms.
+- In this class i implements the interfaces - GraphAlgo.
+- In this class we implement the Dijkstra and Tarjan algorithms.
 
 | Name |  Description|
 |--|--|
