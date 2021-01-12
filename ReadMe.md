@@ -3,6 +3,7 @@ Welcome to the fourth assignment in the OOP course and the first exercise in Pyt
 In this task we built a weighted and directed graph and implemented a number of algorithms.
 
 **DiGraph** - A class that implements the GraphInterface interface to build a graph.
+
 **GraphAlgo** - A class that implements the GraphAlgoInterface interface to execute algorithms on the graph.
 
 # Classes and Methods
