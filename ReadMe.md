@@ -58,9 +58,15 @@ In this class i implements the interfaces - GraphInterface
 ## Sources and links
 
 https://en.wikipedia.org/wiki/Connectivity_(graph_theory)
+
 https://www.w3schools.com/python/
+
 https://math-wiki.com/images/a/ae/Algo_tirgul8-9.pdf
+
 https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm
+
 https://www.youtube.com/watch?v=1d2bqlI5PR4
+
 https://www.geeksforgeeks.org/tarjan-algorithm-find-strongly-connected-components/
+
 https://iq.opengenus.org/tarjans-algorithm/
