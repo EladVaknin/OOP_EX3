@@ -31,7 +31,8 @@ In this class i implements the interfaces - GraphInterface
 ### GraphAlgo
 
 In this class i implements the interfaces - GraphAlgo.
-In this class we implement the Dykstra and Tarjan algorithms.
+
+In this class we implement the Dijkstra and Tarjan algorithms.
 
 | Name |  Description|
 |--|--|
@@ -44,7 +45,7 @@ In this class we implement the Dykstra and Tarjan algorithms.
 | connected_component(self, id1: int) | Returns a list of strong binding component  |
 | connected_components(self) |Returns a list of binding component  |
 | plot_graph(self) | This function builds the graphic design. |
-| Dijkstra (self, id1: int, id2: int) | This function implements the Dykstra algorithm. |
+| Dijkstra (self, id1: int, id2: int) | This function implements the Dijkstra algorithm. |
 
 
 ***Example graph*** : 
