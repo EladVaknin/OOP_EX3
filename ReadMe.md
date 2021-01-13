@@ -46,6 +46,7 @@ In this class i implements the interfaces - GraphInterface
 | plot_graph(self) | This function builds the graphic design. |
 | Dijkstra (self, id1: int, id2: int) | This function implements the Dijkstra algorithm. |
 
+#
 
 ***Example graph*** : 
 ![WhatsApp Image 2021-01-12 at 17 13 44](https://user-images.githubusercontent.com/74238558/104333463-ec1f5b80-54f9-11eb-9ea9-91d3e3b1c730.jpeg)
