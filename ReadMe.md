@@ -54,7 +54,7 @@ In this class i implements the interfaces - GraphInterface
 # Tests
 
 * In this project we compared our work at Java (assigment two in this course) and the standard library in python- networkx.
-*  To the results table visit in our **Wiki** page.
+*  To the results table visit in our **Wiki** page : https://github.com/EladVaknin/OOP_EX3/wiki/Tests-and-results
 
 * Beyond that we implemented the two clases testing all the methods implemented above using unittest :
 
