@@ -51,9 +51,15 @@ In this class i implements the interfaces - GraphInterface
 ![WhatsApp Image 2021-01-12 at 17 13 44](https://user-images.githubusercontent.com/74238558/104333463-ec1f5b80-54f9-11eb-9ea9-91d3e3b1c730.jpeg)
 
 
+# Tests
 
 * In this project we compared our work at Java (assigment two in this course) and the standard library in python- networkx.
 *  To the results table visit in our **Wiki** page.
+* Beyond that we implemented the two clases testing all the methods implemented above using unittest :
+**Test_DiGraph** - tests all the methods associated with graph construction.
+**Test_Algo** -   tests all the methods belonging to the realization of algorithms on a graph
+
+
 
 ## Sources and links
 
