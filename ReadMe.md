@@ -70,3 +70,5 @@ https://www.youtube.com/watch?v=1d2bqlI5PR4
 https://www.geeksforgeeks.org/tarjan-algorithm-find-strongly-connected-components/
 
 https://iq.opengenus.org/tarjans-algorithm/
+
+https://www.youtube.com/watch?v=wUgWX0nc4NY
